@@ -96,6 +96,7 @@
     "466": "canonical",
     "478": "canonical",
     "480": ["canonical", "eip155"],
+    "545": "eip155",
     "570": "eip155",
     "588": "eip155",
     "592": "canonical",
